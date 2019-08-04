@@ -1,4 +1,4 @@
-class Main{ 
+class alphabatecount{ 
     static void count(String str) 
     { 
          
